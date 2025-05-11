@@ -113,7 +113,10 @@ details{
 }
 
 .card p{
-  color: #fff;
+  color: #adb0e0;
+  font-size: 20px;
+  text-align: left;
+  font-style: italic;
 }
 
 .footer{
@@ -135,4 +138,8 @@ details{
 
 .destaque{
   color: rgb(78, 78, 211);
+}
+
+.list-services p{
+  color: #3599c7;
 }
